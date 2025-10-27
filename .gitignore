@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Credentials and sensitive data
+**/credentials.py
+
+# Large data files
+*.npz
+*.csv
+!data_with_timestamp*.csv  # Keep these specific CSV files
+*.mp4
+*.avi

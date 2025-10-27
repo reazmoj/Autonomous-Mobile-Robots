@@ -3,9 +3,7 @@
 This repository contains assignments and projects completed as part of the Autonomous Mobile Robots course in my Master's program.
 
 ## Demo Video
-<video src="outdoor.gif" width="720" height="460" controls autoplay loop muted>
-  Your browser does not support the video tag.
-</video>
+![Outdoor Demo](outdoor.gif)
 
 ## Repository Structure
 

@@ -1,0 +1,10 @@
+train: D:/Lectures/Robot/final/FinalProject-v2/label
+val: D:/Lectures/Robot/final/FinalProject-v2/label
+
+names:
+  0: person
+  1: car
+  2: airplane
+  3: helicopter
+  4: motorcycle
+  5: bicycle
